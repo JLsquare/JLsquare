@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, OpenGL, VueJS, Tailwindcss**
 
-- 👨‍💻 All of my projects are available at [http://www.jlsquare.fr/](http://www.jlsquare.fr/)
+- 👨‍💻 All of my projects are available at [http://www.jlsquare.fr/](https://www.jlsquare.fr/)
 
 - 💬 Ask me about **Unity, C#, NodeJS, Websocket**
 
