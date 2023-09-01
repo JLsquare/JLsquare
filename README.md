@@ -1,6 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on http://vox.place:3000/<br>🌱 I’m currently learning Nuxt / Vue
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-loup-mellion-82a53b261) 
