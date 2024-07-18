@@ -8,17 +8,3 @@ using arch btw
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/378927976991031296)  
 [![Twitter / X](https://img.shields.io/badge/Twitter_%2F_X-000000?logo=X&logoColor=white)](https://x.com/jlsquare_)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-loup-mellion-82a53b261)   
-
-# funny graphs
-
-no skill issues  
-![](https://github-readme-stats.vercel.app/api?username=JLsquare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-still have a social life somehow  
-![](https://github-readme-streak-stats.herokuapp.com/?user=JLsquare&theme=tokyonight&hide_border=false)<br/>
-
-yay base64 encoded images in Jupyter notebooks  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JLsquare&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/JLsquare/JLsquare/blob/main/yay.gif?raw=true');]{x0000}$}
